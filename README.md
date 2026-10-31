@@ -5,7 +5,7 @@ An executive-grade commercial performance dashboard built in Power BI Desktop to
 
 The dashboard provides C-suite analytics for monitoring revenue velocity, operating profit margins, channel distribution efficiency, and brand-level performance tiers.
 
-![Dashboard Preview](Screenshot%20%28179%29.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ## Data Modeling & DAX Architecture
 
